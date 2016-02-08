@@ -1,8 +1,8 @@
-# Intro To Tic Tac Toe in Ruby
+# Intro To Tic Tac Toe in iOs
 
 ## Objectives
 
-1. Learn about building Tic Tac Toe in Ruby.
+1. Learn about building Tic Tac Toe for iOS
 
 ## Introduction
 
